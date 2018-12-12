@@ -1,0 +1,12 @@
+{
+  "name": "mausam.io",
+  "description": "Speech based weather Webapp",
+  "repository": "https://github.com/siddinc/mausam.io.git",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.10.3"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}

@@ -1,0 +1,7 @@
+# Parcel specific
+.cache/
+dist/
+# NPM
+node_modules/
+# Yarn. Use NPM package.lock instread.
+yarn.lock
